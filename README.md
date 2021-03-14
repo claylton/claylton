@@ -1,10 +1,11 @@
 <h1 align='center'>
-  Hi there 👋 I'm Claylton 👨‍💻
+  Hi there 👋 I'm Claylton 🧑🏽‍💻
 </h1>
 
-<p align='center'>
-  A mobile developer from Bahia, Brazil.
-</p>
+<h3 align='center'>
+  A mobile developer from Bahia, Brazil. 👨‍💻
+
+</h3>
 
 <img align="left" width="400" height="400" src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif">
 
