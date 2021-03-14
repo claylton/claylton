@@ -1,9 +1,9 @@
 <h1 align='center'>
-  Hi there 👋 I'm Claylton 🧑🏽‍💻
+  Hi there 👋 I'm Claylton 👨‍💻
 </h1>
 
 <h3 align='center'>
-  A mobile developer from Bahia, Brazil. 👨‍💻
+  A mobile developer from Bahia, Brazil. 📱
 
 </h3>
 
