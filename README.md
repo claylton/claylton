@@ -1,13 +1,6 @@
 <h1 align='center'>
-  Hi there 👋 I'm Claylton 👨‍💻
+  Claylton Santos ● Flutter developer
 </h1>
-
-<h3 align='center'>
-  A mobile developer from Bahia, Brazil. 📱
-
-</h3>
-
-<img align="left" width="400" height="400" src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif">
 
 <p align='center'>
   
@@ -37,14 +30,5 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://badges.pufler.dev/visits/claylton/claylton"></a> amazing peoples come here 🕺🎉
+  <a href="#"><img src="https://badges.pufler.dev/visits/claylton/claylton"></a>
 </p>
-
-<p align='center'>
-  Do you like my open source projects? <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a>
-</p>
-
-<p align='center'>
-  Ask me about <a href=https://github.com/claylton/claylton/issues> here 💬</a>
-</p>
-
