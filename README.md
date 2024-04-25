@@ -7,7 +7,7 @@
   <a href="https://wa.me/5575997081234?text=Olá!%20Claylton%20vim%20do%20Github">
     <img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />    
   </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/claylton-dos-santos-97816a150/">
+  <a href="https://www.linkedin.com/in/claylton-dos-santos-pinto-97816a150/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/clayltonsp/">
